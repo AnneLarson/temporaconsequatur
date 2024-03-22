@@ -1,0 +1,32 @@
+{
+  "name": "temporaconsequatur",
+  "version": "1.0.0",
+  "description": "Converts PCRE regexp strings to JavaScript RegExp instances",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnneLarson/temporaconsequatur.git"
+  },
+  "keywords": [
+    "pcre",
+    "regexp",
+    "convert",
+    "js",
+    "php",
+    "unde",
+    "preg_replace",
+    "preg_match"
+  ],
+  "author": "BrandynWelch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnneLarson/temporaconsequatur.git/issues"
+  },
+  "homepage": "https://github.com/AnneLarson/temporaconsequatur.git",
+  "devDependencies": {
+    "mocha": "~1.20.1"
+  }
+}
